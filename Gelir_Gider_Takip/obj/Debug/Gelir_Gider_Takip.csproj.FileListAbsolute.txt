@@ -1,0 +1,12 @@
+C:\Users\samet\OneDrive\Masaüstü\Gelir_Gider_Takip-main\Gelir_Gider_Takip\bin\Debug\Gelir_Gider_Takip.exe.config
+C:\Users\samet\OneDrive\Masaüstü\Gelir_Gider_Takip-main\Gelir_Gider_Takip\bin\Debug\Gelir_Gider_Takip.exe
+C:\Users\samet\OneDrive\Masaüstü\Gelir_Gider_Takip-main\Gelir_Gider_Takip\bin\Debug\Gelir_Gider_Takip.pdb
+C:\Users\samet\OneDrive\Masaüstü\Gelir_Gider_Takip-main\Gelir_Gider_Takip\obj\Debug\Gelir_Gider_Takip.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\Gelir_Gider_Takip-main\Gelir_Gider_Takip\obj\Debug\Gelir_Gider_Takip.csproj.SuggestedBindingRedirects.cache
+C:\Users\samet\OneDrive\Masaüstü\Gelir_Gider_Takip-main\Gelir_Gider_Takip\obj\Debug\Gelir_Gider_Takip.Form1.resources
+C:\Users\samet\OneDrive\Masaüstü\Gelir_Gider_Takip-main\Gelir_Gider_Takip\obj\Debug\Gelir_Gider_Takip.GiderTipi_Ekle.resources
+C:\Users\samet\OneDrive\Masaüstü\Gelir_Gider_Takip-main\Gelir_Gider_Takip\obj\Debug\Gelir_Gider_Takip.Properties.Resources.resources
+C:\Users\samet\OneDrive\Masaüstü\Gelir_Gider_Takip-main\Gelir_Gider_Takip\obj\Debug\Gelir_Gider_Takip.csproj.GenerateResource.cache
+C:\Users\samet\OneDrive\Masaüstü\Gelir_Gider_Takip-main\Gelir_Gider_Takip\obj\Debug\Gelir_Gider_Takip.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\Gelir_Gider_Takip-main\Gelir_Gider_Takip\obj\Debug\Gelir_Gider_Takip.exe
+C:\Users\samet\OneDrive\Masaüstü\Gelir_Gider_Takip-main\Gelir_Gider_Takip\obj\Debug\Gelir_Gider_Takip.pdb
